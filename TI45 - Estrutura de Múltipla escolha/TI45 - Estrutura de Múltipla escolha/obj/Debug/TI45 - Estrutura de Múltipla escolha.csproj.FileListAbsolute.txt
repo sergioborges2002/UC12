@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45 - Estrutura de Múltipla escolha\TI45 - Estrutura de Múltipla escolha\obj\Debug\TI45 - Estrutura de Múltipla escolha.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Estrutura de Múltipla escolha\TI45 - Estrutura de Múltipla escolha\obj\Debug\TI45 - Estrutura de Múltipla escolha.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Estrutura de Múltipla escolha\TI45 - Estrutura de Múltipla escolha\bin\Debug\TI45 - Estrutura de Múltipla escolha.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45 - Estrutura de Múltipla escolha\TI45 - Estrutura de Múltipla escolha\bin\Debug\TI45 - Estrutura de Múltipla escolha.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Estrutura de Múltipla escolha\TI45 - Estrutura de Múltipla escolha\bin\Debug\TI45 - Estrutura de Múltipla escolha.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45 - Estrutura de Múltipla escolha\TI45 - Estrutura de Múltipla escolha\obj\Debug\TI45 - Estrutura de Múltipla escolha.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Estrutura de Múltipla escolha\TI45 - Estrutura de Múltipla escolha\obj\Debug\TI45 - Estrutura de Múltipla escolha.pdb
