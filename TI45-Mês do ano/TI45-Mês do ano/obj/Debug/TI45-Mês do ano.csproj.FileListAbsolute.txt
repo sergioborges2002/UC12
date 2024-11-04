@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Mês do ano\TI45-Mês do ano\bin\Debug\TI45-Mês do ano.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Mês do ano\TI45-Mês do ano\bin\Debug\TI45-Mês do ano.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Mês do ano\TI45-Mês do ano\bin\Debug\TI45-Mês do ano.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Mês do ano\TI45-Mês do ano\obj\Debug\TI45-Mês do ano.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Mês do ano\TI45-Mês do ano\obj\Debug\TI45-Mês do ano.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Mês do ano\TI45-Mês do ano\obj\Debug\TI45-Mês do ano.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Mês do ano\TI45-Mês do ano\obj\Debug\TI45-Mês do ano.pdb

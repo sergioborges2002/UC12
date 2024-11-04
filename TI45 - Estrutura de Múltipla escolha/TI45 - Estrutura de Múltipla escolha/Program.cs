@@ -21,6 +21,11 @@ namespace TI45___Estrutura_de_Múltipla_escolha
                     case 2:
                     Console.WriteLine("C/C++/C#,Java");
                     break;
+                default:
+                    Console.WriteLine("Erro! Não existe essa opção!");
+                    Console.WriteLine("Digite qualquer tecla para sair do programa...");
+                    Console.ReadKey();
+                    break;
 
             }
             Console.ReadKey();

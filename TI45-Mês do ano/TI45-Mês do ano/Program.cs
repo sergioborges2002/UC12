@@ -53,7 +53,10 @@ namespace TI45_Mês_do_ano
                     break;
                 case 12:
                     Console.WriteLine("Dezembro");
-
+                    break;
+                    default: Console.WriteLine("Erro! Não existe esse mês!");
+                    Console.WriteLine("Digite qualquer tecla para sair do programa...");
+                    Console.ReadKey();
                     break;
 
             }
