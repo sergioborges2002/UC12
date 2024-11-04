@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Volume de uma pirâmide\TI45-Volume de uma pirâmide\bin\Debug\TI45-Volume de uma pirâmide.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Volume de uma pirâmide\TI45-Volume de uma pirâmide\bin\Debug\TI45-Volume de uma pirâmide.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Volume de uma pirâmide\TI45-Volume de uma pirâmide\bin\Debug\TI45-Volume de uma pirâmide.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Volume de uma pirâmide\TI45-Volume de uma pirâmide\obj\Debug\TI45-Volume de uma pirâmide.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Volume de uma pirâmide\TI45-Volume de uma pirâmide\obj\Debug\TI45-Volume de uma pirâmide.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Volume de uma pirâmide\TI45-Volume de uma pirâmide\obj\Debug\TI45-Volume de uma pirâmide.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Volume de uma pirâmide\TI45-Volume de uma pirâmide\obj\Debug\TI45-Volume de uma pirâmide.pdb

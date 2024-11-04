@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI45 - Volume e área do cilindro", "TI45 - Volume e área do cilindro\TI45 - Volume e área do cilindro.csproj", "{14A97612-0FCC-4B5A-BF14-C71B7D39175A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A97612-0FCC-4B5A-BF14-C71B7D39175A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A97612-0FCC-4B5A-BF14-C71B7D39175A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A97612-0FCC-4B5A-BF14-C71B7D39175A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A97612-0FCC-4B5A-BF14-C71B7D39175A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F346E8-BAD7-4F96-A022-31DE27418A4F}
+	EndGlobalSection
+EndGlobal

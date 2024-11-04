@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI45 - Valor a pagar no restaurante", "TI45 - Valor a pagar no restaurante\TI45 - Valor a pagar no restaurante.csproj", "{75B779FF-5D89-4428-8FF1-8A00B580AEA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B779FF-5D89-4428-8FF1-8A00B580AEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B779FF-5D89-4428-8FF1-8A00B580AEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B779FF-5D89-4428-8FF1-8A00B580AEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B779FF-5D89-4428-8FF1-8A00B580AEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C6A102-B190-4F1F-BDCA-1FF10DCAF5E1}
+	EndGlobalSection
+EndGlobal

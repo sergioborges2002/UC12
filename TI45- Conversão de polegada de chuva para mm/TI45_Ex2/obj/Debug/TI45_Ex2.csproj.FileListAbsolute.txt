@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45_Ex2\TI45_Ex2\obj\Debug\TI45_Ex2.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45_Ex2\TI45_Ex2\obj\Debug\TI45_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45_Ex2\TI45_Ex2\bin\Debug\TI45_Ex2.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45_Ex2\TI45_Ex2\bin\Debug\TI45_Ex2.exe
+C:\Users\sergio.hbsantos\source\repos\TI45_Ex2\TI45_Ex2\bin\Debug\TI45_Ex2.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45_Ex2\TI45_Ex2\obj\Debug\TI45_Ex2.exe
+C:\Users\sergio.hbsantos\source\repos\TI45_Ex2\TI45_Ex2\obj\Debug\TI45_Ex2.pdb
