@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45- Ordem ascendente\TI45- Ordem ascendente\bin\Debug\TI45- Ordem ascendente.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45- Ordem ascendente\TI45- Ordem ascendente\bin\Debug\TI45- Ordem ascendente.exe
+C:\Users\sergio.hbsantos\source\repos\TI45- Ordem ascendente\TI45- Ordem ascendente\bin\Debug\TI45- Ordem ascendente.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45- Ordem ascendente\TI45- Ordem ascendente\obj\Debug\TI45- Ordem ascendente.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45- Ordem ascendente\TI45- Ordem ascendente\obj\Debug\TI45- Ordem ascendente.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45- Ordem ascendente\TI45- Ordem ascendente\obj\Debug\TI45- Ordem ascendente.exe
+C:\Users\sergio.hbsantos\source\repos\TI45- Ordem ascendente\TI45- Ordem ascendente\obj\Debug\TI45- Ordem ascendente.pdb

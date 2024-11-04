@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45 - Média de 3 números\TI45 - Média de 3 números\obj\Debug\TI45 - Média de 3 números.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Média de 3 números\TI45 - Média de 3 números\obj\Debug\TI45 - Média de 3 números.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Média de 3 números\TI45 - Média de 3 números\bin\Debug\TI45 - Média de 3 números.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45 - Média de 3 números\TI45 - Média de 3 números\bin\Debug\TI45 - Média de 3 números.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Média de 3 números\TI45 - Média de 3 números\bin\Debug\TI45 - Média de 3 números.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45 - Média de 3 números\TI45 - Média de 3 números\obj\Debug\TI45 - Média de 3 números.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Média de 3 números\TI45 - Média de 3 números\obj\Debug\TI45 - Média de 3 números.pdb
