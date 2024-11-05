@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Tabela de combustíveis\TI45-Tabela de combustíveis\bin\Debug\TI45-Tabela de combustíveis.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Tabela de combustíveis\TI45-Tabela de combustíveis\bin\Debug\TI45-Tabela de combustíveis.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Tabela de combustíveis\TI45-Tabela de combustíveis\bin\Debug\TI45-Tabela de combustíveis.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Tabela de combustíveis\TI45-Tabela de combustíveis\obj\Debug\TI45-Tabela de combustíveis.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Tabela de combustíveis\TI45-Tabela de combustíveis\obj\Debug\TI45-Tabela de combustíveis.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Tabela de combustíveis\TI45-Tabela de combustíveis\obj\Debug\TI45-Tabela de combustíveis.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Tabela de combustíveis\TI45-Tabela de combustíveis\obj\Debug\TI45-Tabela de combustíveis.pdb

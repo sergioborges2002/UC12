@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45 - Produto e Classificação\TI45 - Produto e Classificação\bin\Debug\TI45 - Produto e Classificação.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45 - Produto e Classificação\TI45 - Produto e Classificação\bin\Debug\TI45 - Produto e Classificação.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Produto e Classificação\TI45 - Produto e Classificação\bin\Debug\TI45 - Produto e Classificação.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45 - Produto e Classificação\TI45 - Produto e Classificação\obj\Debug\TI45 - Produto e Classificação.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Produto e Classificação\TI45 - Produto e Classificação\obj\Debug\TI45 - Produto e Classificação.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Produto e Classificação\TI45 - Produto e Classificação\obj\Debug\TI45 - Produto e Classificação.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Produto e Classificação\TI45 - Produto e Classificação\obj\Debug\TI45 - Produto e Classificação.pdb

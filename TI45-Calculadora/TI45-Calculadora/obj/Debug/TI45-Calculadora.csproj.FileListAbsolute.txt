@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Calculadora\TI45-Calculadora\bin\Debug\TI45-Calculadora.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Calculadora\TI45-Calculadora\bin\Debug\TI45-Calculadora.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Calculadora\TI45-Calculadora\bin\Debug\TI45-Calculadora.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Calculadora\TI45-Calculadora\obj\Debug\TI45-Calculadora.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Calculadora\TI45-Calculadora\obj\Debug\TI45-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Calculadora\TI45-Calculadora\obj\Debug\TI45-Calculadora.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Calculadora\TI45-Calculadora\obj\Debug\TI45-Calculadora.pdb

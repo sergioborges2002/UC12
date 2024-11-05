@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Ajuste de preço do produto\TI45-Ajuste de preço do produto\bin\Debug\TI45-Ajuste de preço do produto.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Ajuste de preço do produto\TI45-Ajuste de preço do produto\bin\Debug\TI45-Ajuste de preço do produto.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Ajuste de preço do produto\TI45-Ajuste de preço do produto\bin\Debug\TI45-Ajuste de preço do produto.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Ajuste de preço do produto\TI45-Ajuste de preço do produto\obj\Debug\TI45-Ajuste de preço do produto.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Ajuste de preço do produto\TI45-Ajuste de preço do produto\obj\Debug\TI45-Ajuste de preço do produto.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Ajuste de preço do produto\TI45-Ajuste de preço do produto\obj\Debug\TI45-Ajuste de preço do produto.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Ajuste de preço do produto\TI45-Ajuste de preço do produto\obj\Debug\TI45-Ajuste de preço do produto.pdb

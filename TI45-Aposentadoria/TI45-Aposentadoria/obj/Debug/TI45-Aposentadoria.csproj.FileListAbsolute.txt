@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Aposentadoria\TI45-Aposentadoria\bin\Debug\TI45-Aposentadoria.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Aposentadoria\TI45-Aposentadoria\bin\Debug\TI45-Aposentadoria.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Aposentadoria\TI45-Aposentadoria\bin\Debug\TI45-Aposentadoria.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Aposentadoria\TI45-Aposentadoria\obj\Debug\TI45-Aposentadoria.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Aposentadoria\TI45-Aposentadoria\obj\Debug\TI45-Aposentadoria.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Aposentadoria\TI45-Aposentadoria\obj\Debug\TI45-Aposentadoria.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Aposentadoria\TI45-Aposentadoria\obj\Debug\TI45-Aposentadoria.pdb

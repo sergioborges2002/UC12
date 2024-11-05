@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Aumento salarial de acordo com temp. de serviço\TI45-Aumento salarial de acordo com temp. de serviço\bin\Debug\TI45_Aumento_salarial_de_acordo_com_temp.de_serviço.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Aumento salarial de acordo com temp. de serviço\TI45-Aumento salarial de acordo com temp. de serviço\bin\Debug\TI45_Aumento_salarial_de_acordo_com_temp.de_serviço.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Aumento salarial de acordo com temp. de serviço\TI45-Aumento salarial de acordo com temp. de serviço\bin\Debug\TI45_Aumento_salarial_de_acordo_com_temp.de_serviço.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Aumento salarial de acordo com temp. de serviço\TI45-Aumento salarial de acordo com temp. de serviço\obj\Debug\TI45-Aumento salarial de acordo com temp. de serviço.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Aumento salarial de acordo com temp. de serviço\TI45-Aumento salarial de acordo com temp. de serviço\obj\Debug\TI45-Aumento salarial de acordo com temp. de serviço.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Aumento salarial de acordo com temp. de serviço\TI45-Aumento salarial de acordo com temp. de serviço\obj\Debug\TI45_Aumento_salarial_de_acordo_com_temp.de_serviço.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Aumento salarial de acordo com temp. de serviço\TI45-Aumento salarial de acordo com temp. de serviço\obj\Debug\TI45_Aumento_salarial_de_acordo_com_temp.de_serviço.pdb
