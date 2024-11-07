@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Primos\TI45-Primos\bin\Debug\TI45-Primos.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Primos\TI45-Primos\bin\Debug\TI45-Primos.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Primos\TI45-Primos\bin\Debug\TI45-Primos.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Primos\TI45-Primos\obj\Debug\TI45-Primos.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Primos\TI45-Primos\obj\Debug\TI45-Primos.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Primos\TI45-Primos\obj\Debug\TI45-Primos.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Primos\TI45-Primos\obj\Debug\TI45-Primos.pdb
