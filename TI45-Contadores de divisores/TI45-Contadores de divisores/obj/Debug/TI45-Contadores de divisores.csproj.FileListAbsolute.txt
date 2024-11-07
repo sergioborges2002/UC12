@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Contadores de divisores\TI45-Contadores de divisores\bin\Debug\TI45-Contadores de divisores.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Contadores de divisores\TI45-Contadores de divisores\bin\Debug\TI45-Contadores de divisores.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Contadores de divisores\TI45-Contadores de divisores\bin\Debug\TI45-Contadores de divisores.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Contadores de divisores\TI45-Contadores de divisores\obj\Debug\TI45-Contadores de divisores.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Contadores de divisores\TI45-Contadores de divisores\obj\Debug\TI45-Contadores de divisores.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Contadores de divisores\TI45-Contadores de divisores\obj\Debug\TI45-Contadores de divisores.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Contadores de divisores\TI45-Contadores de divisores\obj\Debug\TI45-Contadores de divisores.pdb
