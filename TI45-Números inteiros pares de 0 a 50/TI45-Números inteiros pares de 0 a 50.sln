@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TI45-Pares de 0 a 50", "TI45-Números inteiros pares de 0 a 50\TI45-Pares de 0 a 50.csproj", "{242A9CC6-B70D-4A72-893D-4A4284C238ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{242A9CC6-B70D-4A72-893D-4A4284C238ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242A9CC6-B70D-4A72-893D-4A4284C238ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242A9CC6-B70D-4A72-893D-4A4284C238ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242A9CC6-B70D-4A72-893D-4A4284C238ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784EABAD-FC0F-4400-9666-01AC314223FA}
+	EndGlobalSection
+EndGlobal

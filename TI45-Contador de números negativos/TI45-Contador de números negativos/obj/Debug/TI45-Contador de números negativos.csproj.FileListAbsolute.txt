@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Contador de números negativos\TI45-Contador de números negativos\bin\Debug\TI45-Contador de números negativos.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Contador de números negativos\TI45-Contador de números negativos\bin\Debug\TI45-Contador de números negativos.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Contador de números negativos\TI45-Contador de números negativos\bin\Debug\TI45-Contador de números negativos.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Contador de números negativos\TI45-Contador de números negativos\obj\Debug\TI45-Contador de números negativos.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Contador de números negativos\TI45-Contador de números negativos\obj\Debug\TI45-Contador de números negativos.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Contador de números negativos\TI45-Contador de números negativos\obj\Debug\TI45-Contador de números negativos.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Contador de números negativos\TI45-Contador de números negativos\obj\Debug\TI45-Contador de números negativos.pdb

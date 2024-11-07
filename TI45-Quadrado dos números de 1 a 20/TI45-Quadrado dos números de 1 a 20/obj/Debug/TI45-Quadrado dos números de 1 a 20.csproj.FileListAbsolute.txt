@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado dos números de 1 a 20\TI45-Quadrado dos números de 1 a 20\obj\Debug\TI45-Quadrado dos números de 1 a 20.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado dos números de 1 a 20\TI45-Quadrado dos números de 1 a 20\obj\Debug\TI45-Quadrado dos números de 1 a 20.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado dos números de 1 a 20\TI45-Quadrado dos números de 1 a 20\bin\Debug\TI45-Quadrado dos números de 1 a 20.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado dos números de 1 a 20\TI45-Quadrado dos números de 1 a 20\bin\Debug\TI45-Quadrado dos números de 1 a 20.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado dos números de 1 a 20\TI45-Quadrado dos números de 1 a 20\bin\Debug\TI45-Quadrado dos números de 1 a 20.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado dos números de 1 a 20\TI45-Quadrado dos números de 1 a 20\obj\Debug\TI45-Quadrado dos números de 1 a 20.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado dos números de 1 a 20\TI45-Quadrado dos números de 1 a 20\obj\Debug\TI45-Quadrado dos números de 1 a 20.pdb

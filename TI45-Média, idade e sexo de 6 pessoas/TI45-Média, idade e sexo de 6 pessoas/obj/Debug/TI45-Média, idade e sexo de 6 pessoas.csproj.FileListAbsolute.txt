@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Média, idade e sexo de 6 pessoas\TI45-Média, idade e sexo de 6 pessoas\bin\Debug\TI45-Média, idade e sexo de 6 pessoas.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Média, idade e sexo de 6 pessoas\TI45-Média, idade e sexo de 6 pessoas\bin\Debug\TI45-Média, idade e sexo de 6 pessoas.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Média, idade e sexo de 6 pessoas\TI45-Média, idade e sexo de 6 pessoas\bin\Debug\TI45-Média, idade e sexo de 6 pessoas.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Média, idade e sexo de 6 pessoas\TI45-Média, idade e sexo de 6 pessoas\obj\Debug\TI45-Média, idade e sexo de 6 pessoas.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Média, idade e sexo de 6 pessoas\TI45-Média, idade e sexo de 6 pessoas\obj\Debug\TI45-Média, idade e sexo de 6 pessoas.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Média, idade e sexo de 6 pessoas\TI45-Média, idade e sexo de 6 pessoas\obj\Debug\TI45-Média, idade e sexo de 6 pessoas.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Média, idade e sexo de 6 pessoas\TI45-Média, idade e sexo de 6 pessoas\obj\Debug\TI45-Média, idade e sexo de 6 pessoas.pdb

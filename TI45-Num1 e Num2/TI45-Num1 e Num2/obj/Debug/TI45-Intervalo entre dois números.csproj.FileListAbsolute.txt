@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Num1 e Num2\TI45-Num1 e Num2\bin\Debug\TI45-Num1 e Num2.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Num1 e Num2\TI45-Num1 e Num2\bin\Debug\TI45-Num1 e Num2.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Num1 e Num2\TI45-Num1 e Num2\bin\Debug\TI45-Num1 e Num2.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Num1 e Num2\TI45-Num1 e Num2\obj\Debug\TI45-Intervalo entre dois números.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Num1 e Num2\TI45-Num1 e Num2\obj\Debug\TI45-Intervalo entre dois números.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Num1 e Num2\TI45-Num1 e Num2\obj\Debug\TI45-Num1 e Num2.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Num1 e Num2\TI45-Num1 e Num2\obj\Debug\TI45-Num1 e Num2.pdb

@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Números de 50 a 0\TI45-Números de 50 a 0\bin\Debug\TI45-Números de 50 a 0.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Números de 50 a 0\TI45-Números de 50 a 0\bin\Debug\TI45-Números de 50 a 0.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Números de 50 a 0\TI45-Números de 50 a 0\bin\Debug\TI45-Números de 50 a 0.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Números de 50 a 0\TI45-Números de 50 a 0\obj\Debug\TI45-Números de 50 a 0.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Números de 50 a 0\TI45-Números de 50 a 0\obj\Debug\TI45-Números de 50 a 0.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Números de 50 a 0\TI45-Números de 50 a 0\obj\Debug\TI45-Números de 50 a 0.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Números de 50 a 0\TI45-Números de 50 a 0\obj\Debug\TI45-Números de 50 a 0.pdb

@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Fatorial\TI45-Fatorial\bin\Debug\TI45-Fatorial.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Fatorial\TI45-Fatorial\bin\Debug\TI45-Fatorial.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Fatorial\TI45-Fatorial\bin\Debug\TI45-Fatorial.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Fatorial\TI45-Fatorial\obj\Debug\TI45-Fatorial.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Fatorial\TI45-Fatorial\obj\Debug\TI45-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Fatorial\TI45-Fatorial\obj\Debug\TI45-Fatorial.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Fatorial\TI45-Fatorial\obj\Debug\TI45-Fatorial.pdb

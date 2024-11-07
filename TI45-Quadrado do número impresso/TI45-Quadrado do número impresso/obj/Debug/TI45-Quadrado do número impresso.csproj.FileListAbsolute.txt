@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado do número impresso\TI45-Quadrado do número impresso\bin\Debug\TI45-Quadrado do número impresso.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado do número impresso\TI45-Quadrado do número impresso\bin\Debug\TI45-Quadrado do número impresso.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado do número impresso\TI45-Quadrado do número impresso\bin\Debug\TI45-Quadrado do número impresso.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado do número impresso\TI45-Quadrado do número impresso\obj\Debug\TI45-Quadrado do número impresso.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado do número impresso\TI45-Quadrado do número impresso\obj\Debug\TI45-Quadrado do número impresso.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado do número impresso\TI45-Quadrado do número impresso\obj\Debug\TI45-Quadrado do número impresso.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Quadrado do número impresso\TI45-Quadrado do número impresso\obj\Debug\TI45-Quadrado do número impresso.pdb

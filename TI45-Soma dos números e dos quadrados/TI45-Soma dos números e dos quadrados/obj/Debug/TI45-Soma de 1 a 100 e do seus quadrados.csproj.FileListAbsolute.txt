@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Soma dos números e dos quadrados\TI45-Soma dos números e dos quadrados\bin\Debug\TI45-Soma dos números e dos quadrados.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Soma dos números e dos quadrados\TI45-Soma dos números e dos quadrados\bin\Debug\TI45-Soma dos números e dos quadrados.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Soma dos números e dos quadrados\TI45-Soma dos números e dos quadrados\bin\Debug\TI45-Soma dos números e dos quadrados.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Soma dos números e dos quadrados\TI45-Soma dos números e dos quadrados\obj\Debug\TI45-Soma de 1 a 100 e do seus quadrados.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Soma dos números e dos quadrados\TI45-Soma dos números e dos quadrados\obj\Debug\TI45-Soma de 1 a 100 e do seus quadrados.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Soma dos números e dos quadrados\TI45-Soma dos números e dos quadrados\obj\Debug\TI45-Soma dos números e dos quadrados.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Soma dos números e dos quadrados\TI45-Soma dos números e dos quadrados\obj\Debug\TI45-Soma dos números e dos quadrados.pdb

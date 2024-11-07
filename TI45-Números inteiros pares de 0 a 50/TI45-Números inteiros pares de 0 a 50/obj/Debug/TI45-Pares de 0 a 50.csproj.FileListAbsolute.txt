@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Números inteiros pares de 0 a 50\TI45-Números inteiros pares de 0 a 50\bin\Debug\TI45-Números inteiros pares de 0 a 50.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Números inteiros pares de 0 a 50\TI45-Números inteiros pares de 0 a 50\bin\Debug\TI45-Números inteiros pares de 0 a 50.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Números inteiros pares de 0 a 50\TI45-Números inteiros pares de 0 a 50\bin\Debug\TI45-Números inteiros pares de 0 a 50.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Números inteiros pares de 0 a 50\TI45-Números inteiros pares de 0 a 50\obj\Debug\TI45-Pares de 0 a 50.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Números inteiros pares de 0 a 50\TI45-Números inteiros pares de 0 a 50\obj\Debug\TI45-Pares de 0 a 50.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Números inteiros pares de 0 a 50\TI45-Números inteiros pares de 0 a 50\obj\Debug\TI45-Números inteiros pares de 0 a 50.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Números inteiros pares de 0 a 50\TI45-Números inteiros pares de 0 a 50\obj\Debug\TI45-Números inteiros pares de 0 a 50.pdb

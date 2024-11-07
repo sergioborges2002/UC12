@@ -47,7 +47,7 @@ namespace TI45_Aumento_salarial_de_acordo_com_temp.de_serviço
             {
                 bonus = 0;
             }
-            else if(temp_servi <=1 && temp_servi <= 3)
+            else if(temp_servi >=1 && temp_servi <= 3)
             {
                 bonus = 100.00;
             }

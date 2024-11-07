@@ -21,7 +21,7 @@ namespace TI45_Ajuste_de_preço_do_produto
                 Console.WriteLine("O preço foi reajustado por 5%");
 
             }
-            else if(preco_antigo >=50 && preco_antigo<=100 ){
+            else if(preco_antigo<=100 ){
                 preco_novo = preco_antigo * 1.10;
                 Console.WriteLine("O preço foi reajustado por 10%");
             }
@@ -35,11 +35,11 @@ namespace TI45_Ajuste_de_preço_do_produto
             {
                 Console.WriteLine("O preço novo é R$ "+Math.Round(preco_novo,2)+" - BARATO");
             }
-            else if(preco_novo >=80 && preco_novo <= 120)
+            else if(preco_novo <= 120)
             {
                 Console.WriteLine("O preço novo é R$ " + Math.Round(preco_novo, 2) + " - NORMAL");
             }
-            else if(preco_novo>=120 && preco_novo <= 200)
+            else if(preco_novo <= 200)
             {
                 Console.WriteLine("O preço novo é R$ " + Math.Round(preco_novo, 2) + " - CARO");
             }
