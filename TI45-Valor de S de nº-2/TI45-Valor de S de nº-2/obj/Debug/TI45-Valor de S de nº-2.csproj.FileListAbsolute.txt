@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Valor de S de nº-2\TI45-Valor de S de nº-2\bin\Debug\TI45-Valor de S de nº-2.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Valor de S de nº-2\TI45-Valor de S de nº-2\bin\Debug\TI45-Valor de S de nº-2.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Valor de S de nº-2\TI45-Valor de S de nº-2\bin\Debug\TI45-Valor de S de nº-2.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Valor de S de nº-2\TI45-Valor de S de nº-2\obj\Debug\TI45-Valor de S de nº-2.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Valor de S de nº-2\TI45-Valor de S de nº-2\obj\Debug\TI45-Valor de S de nº-2.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Valor de S de nº-2\TI45-Valor de S de nº-2\obj\Debug\TI45-Valor de S de nº-2.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Valor de S de nº-2\TI45-Valor de S de nº-2\obj\Debug\TI45-Valor de S de nº-2.pdb

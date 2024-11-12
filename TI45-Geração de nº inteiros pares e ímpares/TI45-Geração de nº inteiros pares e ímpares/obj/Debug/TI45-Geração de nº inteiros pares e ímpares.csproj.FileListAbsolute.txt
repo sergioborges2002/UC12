@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Geração de nº inteiros pares e ímpares\TI45-Geração de nº inteiros pares e ímpares\bin\Debug\TI45-Geração de nº inteiros pares e ímpares.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Geração de nº inteiros pares e ímpares\TI45-Geração de nº inteiros pares e ímpares\bin\Debug\TI45-Geração de nº inteiros pares e ímpares.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Geração de nº inteiros pares e ímpares\TI45-Geração de nº inteiros pares e ímpares\bin\Debug\TI45-Geração de nº inteiros pares e ímpares.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Geração de nº inteiros pares e ímpares\TI45-Geração de nº inteiros pares e ímpares\obj\Debug\TI45-Geração de nº inteiros pares e ímpares.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Geração de nº inteiros pares e ímpares\TI45-Geração de nº inteiros pares e ímpares\obj\Debug\TI45-Geração de nº inteiros pares e ímpares.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Geração de nº inteiros pares e ímpares\TI45-Geração de nº inteiros pares e ímpares\obj\Debug\TI45-Geração de nº inteiros pares e ímpares.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Geração de nº inteiros pares e ímpares\TI45-Geração de nº inteiros pares e ímpares\obj\Debug\TI45-Geração de nº inteiros pares e ímpares.pdb

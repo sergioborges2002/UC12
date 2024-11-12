@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Ricci\TI45-Série de Ricci\bin\Debug\TI45-Série de Ricci.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Ricci\TI45-Série de Ricci\bin\Debug\TI45-Série de Ricci.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Ricci\TI45-Série de Ricci\bin\Debug\TI45-Série de Ricci.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Ricci\TI45-Série de Ricci\obj\Debug\TI45-Série de Ricci.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Ricci\TI45-Série de Ricci\obj\Debug\TI45-Série de Ricci.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Ricci\TI45-Série de Ricci\obj\Debug\TI45-Série de Ricci.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Ricci\TI45-Série de Ricci\obj\Debug\TI45-Série de Ricci.pdb

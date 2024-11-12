@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor em ordem inversa\TI45-Vetor em ordem inversa\bin\Debug\TI45-Vetor em ordem inversa.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor em ordem inversa\TI45-Vetor em ordem inversa\bin\Debug\TI45-Vetor em ordem inversa.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor em ordem inversa\TI45-Vetor em ordem inversa\bin\Debug\TI45-Vetor em ordem inversa.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor em ordem inversa\TI45-Vetor em ordem inversa\obj\Debug\TI45-Vetor em ordem inversa.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor em ordem inversa\TI45-Vetor em ordem inversa\obj\Debug\TI45-Vetor em ordem inversa.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor em ordem inversa\TI45-Vetor em ordem inversa\obj\Debug\TI45-Vetor em ordem inversa.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor em ordem inversa\TI45-Vetor em ordem inversa\obj\Debug\TI45-Vetor em ordem inversa.pdb

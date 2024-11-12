@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Imposto de Renda e sua Alíquota\TI45-Imposto de Renda e sua Alíquota\bin\Debug\TI45-Imposto de Renda e sua Alíquota.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Imposto de Renda e sua Alíquota\TI45-Imposto de Renda e sua Alíquota\bin\Debug\TI45-Imposto de Renda e sua Alíquota.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Imposto de Renda e sua Alíquota\TI45-Imposto de Renda e sua Alíquota\bin\Debug\TI45-Imposto de Renda e sua Alíquota.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Imposto de Renda e sua Alíquota\TI45-Imposto de Renda e sua Alíquota\obj\Debug\TI45-Imposto de Renda e sua Alíquota.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Imposto de Renda e sua Alíquota\TI45-Imposto de Renda e sua Alíquota\obj\Debug\TI45-Imposto de Renda e sua Alíquota.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Imposto de Renda e sua Alíquota\TI45-Imposto de Renda e sua Alíquota\obj\Debug\TI45-Imposto de Renda e sua Alíquota.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Imposto de Renda e sua Alíquota\TI45-Imposto de Renda e sua Alíquota\obj\Debug\TI45-Imposto de Renda e sua Alíquota.pdb

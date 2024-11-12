@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Fibonacci\TI45-Série de Fibonacci\bin\Debug\TI45-Série de Fibonacci.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Fibonacci\TI45-Série de Fibonacci\bin\Debug\TI45-Série de Fibonacci.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Fibonacci\TI45-Série de Fibonacci\bin\Debug\TI45-Série de Fibonacci.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Fibonacci\TI45-Série de Fibonacci\obj\Debug\TI45-Série de Fibonacci.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Fibonacci\TI45-Série de Fibonacci\obj\Debug\TI45-Série de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Fibonacci\TI45-Série de Fibonacci\obj\Debug\TI45-Série de Fibonacci.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Série de Fibonacci\TI45-Série de Fibonacci\obj\Debug\TI45-Série de Fibonacci.pdb

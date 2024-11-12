@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Nº gerado primo\TI45-Nº gerado primo\bin\Debug\TI45-Nº gerado primo.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Nº gerado primo\TI45-Nº gerado primo\bin\Debug\TI45-Nº gerado primo.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Nº gerado primo\TI45-Nº gerado primo\bin\Debug\TI45-Nº gerado primo.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Nº gerado primo\TI45-Nº gerado primo\obj\Debug\TI45-Nº gerado primo.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Nº gerado primo\TI45-Nº gerado primo\obj\Debug\TI45-Nº gerado primo.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Nº gerado primo\TI45-Nº gerado primo\obj\Debug\TI45-Nº gerado primo.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Nº gerado primo\TI45-Nº gerado primo\obj\Debug\TI45-Nº gerado primo.pdb
