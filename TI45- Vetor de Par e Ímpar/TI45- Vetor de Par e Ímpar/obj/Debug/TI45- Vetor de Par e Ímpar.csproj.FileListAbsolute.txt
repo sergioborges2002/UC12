@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45- Vetor de Par e Ímpar\TI45- Vetor de Par e Ímpar\bin\Debug\TI45- Vetor de Par e Ímpar.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45- Vetor de Par e Ímpar\TI45- Vetor de Par e Ímpar\bin\Debug\TI45- Vetor de Par e Ímpar.exe
+C:\Users\sergio.hbsantos\source\repos\TI45- Vetor de Par e Ímpar\TI45- Vetor de Par e Ímpar\bin\Debug\TI45- Vetor de Par e Ímpar.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45- Vetor de Par e Ímpar\TI45- Vetor de Par e Ímpar\obj\Debug\TI45- Vetor de Par e Ímpar.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45- Vetor de Par e Ímpar\TI45- Vetor de Par e Ímpar\obj\Debug\TI45- Vetor de Par e Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45- Vetor de Par e Ímpar\TI45- Vetor de Par e Ímpar\obj\Debug\TI45- Vetor de Par e Ímpar.exe
+C:\Users\sergio.hbsantos\source\repos\TI45- Vetor de Par e Ímpar\TI45- Vetor de Par e Ímpar\obj\Debug\TI45- Vetor de Par e Ímpar.pdb

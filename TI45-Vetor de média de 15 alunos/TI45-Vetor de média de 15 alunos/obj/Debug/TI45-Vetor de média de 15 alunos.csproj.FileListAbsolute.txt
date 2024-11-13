@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de média de 15 alunos\TI45-Vetor de média de 15 alunos\bin\Debug\TI45-Vetor de média de 15 alunos.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de média de 15 alunos\TI45-Vetor de média de 15 alunos\bin\Debug\TI45-Vetor de média de 15 alunos.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de média de 15 alunos\TI45-Vetor de média de 15 alunos\bin\Debug\TI45-Vetor de média de 15 alunos.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de média de 15 alunos\TI45-Vetor de média de 15 alunos\obj\Debug\TI45-Vetor de média de 15 alunos.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de média de 15 alunos\TI45-Vetor de média de 15 alunos\obj\Debug\TI45-Vetor de média de 15 alunos.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de média de 15 alunos\TI45-Vetor de média de 15 alunos\obj\Debug\TI45-Vetor de média de 15 alunos.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de média de 15 alunos\TI45-Vetor de média de 15 alunos\obj\Debug\TI45-Vetor de média de 15 alunos.pdb

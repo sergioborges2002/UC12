@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Produto escalar de A por B\TI45-Produto escalar de A por B\bin\Debug\TI45-Produto escalar de A por B.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Produto escalar de A por B\TI45-Produto escalar de A por B\bin\Debug\TI45-Produto escalar de A por B.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Produto escalar de A por B\TI45-Produto escalar de A por B\bin\Debug\TI45-Produto escalar de A por B.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Produto escalar de A por B\TI45-Produto escalar de A por B\obj\Debug\TI45-Produto escalar de A por B.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Produto escalar de A por B\TI45-Produto escalar de A por B\obj\Debug\TI45-Produto escalar de A por B.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Produto escalar de A por B\TI45-Produto escalar de A por B\obj\Debug\TI45-Produto escalar de A por B.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Produto escalar de A por B\TI45-Produto escalar de A por B\obj\Debug\TI45-Produto escalar de A por B.pdb

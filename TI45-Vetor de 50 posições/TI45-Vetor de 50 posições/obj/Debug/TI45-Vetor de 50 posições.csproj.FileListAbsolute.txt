@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de 50 posições\TI45-Vetor de 50 posições\bin\Debug\TI45-Vetor de 50 posições.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de 50 posições\TI45-Vetor de 50 posições\bin\Debug\TI45-Vetor de 50 posições.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de 50 posições\TI45-Vetor de 50 posições\bin\Debug\TI45-Vetor de 50 posições.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de 50 posições\TI45-Vetor de 50 posições\obj\Debug\TI45-Vetor de 50 posições.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de 50 posições\TI45-Vetor de 50 posições\obj\Debug\TI45-Vetor de 50 posições.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de 50 posições\TI45-Vetor de 50 posições\obj\Debug\TI45-Vetor de 50 posições.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de 50 posições\TI45-Vetor de 50 posições\obj\Debug\TI45-Vetor de 50 posições.pdb

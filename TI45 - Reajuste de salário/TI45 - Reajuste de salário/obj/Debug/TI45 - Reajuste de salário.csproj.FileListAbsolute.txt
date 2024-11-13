@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45 - Reajuste de salário\TI45 - Reajuste de salário\bin\Debug\TI45 - Reajuste de salário.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45 - Reajuste de salário\TI45 - Reajuste de salário\bin\Debug\TI45 - Reajuste de salário.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Reajuste de salário\TI45 - Reajuste de salário\bin\Debug\TI45 - Reajuste de salário.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45 - Reajuste de salário\TI45 - Reajuste de salário\obj\Debug\TI45 - Reajuste de salário.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Reajuste de salário\TI45 - Reajuste de salário\obj\Debug\TI45 - Reajuste de salário.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45 - Reajuste de salário\TI45 - Reajuste de salário\obj\Debug\TI45 - Reajuste de salário.exe
+C:\Users\sergio.hbsantos\source\repos\TI45 - Reajuste de salário\TI45 - Reajuste de salário\obj\Debug\TI45 - Reajuste de salário.pdb

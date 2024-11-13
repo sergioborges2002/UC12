@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior ou menor no vetor\TI45-Maior ou menor no vetor\bin\Debug\TI45-Maior ou menor no vetor.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior ou menor no vetor\TI45-Maior ou menor no vetor\bin\Debug\TI45-Maior ou menor no vetor.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior ou menor no vetor\TI45-Maior ou menor no vetor\bin\Debug\TI45-Maior ou menor no vetor.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior ou menor no vetor\TI45-Maior ou menor no vetor\obj\Debug\TI45-Maior ou menor no vetor.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior ou menor no vetor\TI45-Maior ou menor no vetor\obj\Debug\TI45-Maior ou menor no vetor.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior ou menor no vetor\TI45-Maior ou menor no vetor\obj\Debug\TI45-Maior ou menor no vetor.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior ou menor no vetor\TI45-Maior ou menor no vetor\obj\Debug\TI45-Maior ou menor no vetor.pdb

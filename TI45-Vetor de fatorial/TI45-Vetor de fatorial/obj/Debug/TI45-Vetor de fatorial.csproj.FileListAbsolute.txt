@@ -1,0 +1,7 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de fatorial\TI45-Vetor de fatorial\bin\Debug\TI45-Vetor de fatorial.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de fatorial\TI45-Vetor de fatorial\bin\Debug\TI45-Vetor de fatorial.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de fatorial\TI45-Vetor de fatorial\bin\Debug\TI45-Vetor de fatorial.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de fatorial\TI45-Vetor de fatorial\obj\Debug\TI45-Vetor de fatorial.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de fatorial\TI45-Vetor de fatorial\obj\Debug\TI45-Vetor de fatorial.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de fatorial\TI45-Vetor de fatorial\obj\Debug\TI45-Vetor de fatorial.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Vetor de fatorial\TI45-Vetor de fatorial\obj\Debug\TI45-Vetor de fatorial.pdb
