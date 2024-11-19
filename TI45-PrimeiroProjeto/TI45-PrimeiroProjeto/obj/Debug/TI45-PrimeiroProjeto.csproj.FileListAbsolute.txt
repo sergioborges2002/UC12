@@ -1,0 +1,10 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\bin\Debug\TI45-PrimeiroProjeto.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\bin\Debug\TI45-PrimeiroProjeto.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\bin\Debug\TI45-PrimeiroProjeto.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\obj\Debug\TI45-PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\obj\Debug\TI45_PrimeiroProjeto.FrmInicial.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\obj\Debug\TI45_PrimeiroProjeto.Properties.Resources.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\obj\Debug\TI45-PrimeiroProjeto.csproj.GenerateResource.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\obj\Debug\TI45-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\obj\Debug\TI45-PrimeiroProjeto.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-PrimeiroProjeto\TI45-PrimeiroProjeto\obj\Debug\TI45-PrimeiroProjeto.pdb
