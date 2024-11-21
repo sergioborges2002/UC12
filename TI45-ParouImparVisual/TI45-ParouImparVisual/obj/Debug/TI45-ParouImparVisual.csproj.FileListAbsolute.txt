@@ -1,0 +1,10 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\bin\Debug\TI45-ParouImparVisual.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\bin\Debug\TI45-ParouImparVisual.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\bin\Debug\TI45-ParouImparVisual.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\obj\Debug\TI45-ParouImparVisual.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\obj\Debug\TI45_ParouImparVisual.FrmPrincipal.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\obj\Debug\TI45_ParouImparVisual.Properties.Resources.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\obj\Debug\TI45-ParouImparVisual.csproj.GenerateResource.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\obj\Debug\TI45-ParouImparVisual.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\obj\Debug\TI45-ParouImparVisual.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-ParouImparVisual\TI45-ParouImparVisual\obj\Debug\TI45-ParouImparVisual.pdb
