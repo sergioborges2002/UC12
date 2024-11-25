@@ -1,0 +1,10 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\bin\Debug\TI45-CalculadoraVisual.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\bin\Debug\TI45-CalculadoraVisual.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\bin\Debug\TI45-CalculadoraVisual.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\obj\Debug\TI45-CalculadoraVisual.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\obj\Debug\TI45_CalculadoraVisual.FrmPrincipal.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\obj\Debug\TI45_CalculadoraVisual.Properties.Resources.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\obj\Debug\TI45-CalculadoraVisual.csproj.GenerateResource.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\obj\Debug\TI45-CalculadoraVisual.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\obj\Debug\TI45-CalculadoraVisual.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-CalculadoraVisual\TI45-CalculadoraVisual\obj\Debug\TI45-CalculadoraVisual.pdb

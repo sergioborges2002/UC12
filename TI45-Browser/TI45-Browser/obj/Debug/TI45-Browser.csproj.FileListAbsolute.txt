@@ -1,0 +1,10 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\bin\Debug\TI45-Browser.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\bin\Debug\TI45-Browser.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\bin\Debug\TI45-Browser.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\obj\Debug\TI45-Browser.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\obj\Debug\TI45_Browser.frmPrincipal.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\obj\Debug\TI45_Browser.Properties.Resources.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\obj\Debug\TI45-Browser.csproj.GenerateResource.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\obj\Debug\TI45-Browser.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\obj\Debug\TI45-Browser.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Browser\TI45-Browser\obj\Debug\TI45-Browser.pdb
