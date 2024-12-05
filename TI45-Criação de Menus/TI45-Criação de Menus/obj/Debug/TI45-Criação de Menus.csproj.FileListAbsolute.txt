@@ -1,0 +1,13 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\bin\Debug\TI45-Criação de Menus.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\bin\Debug\TI45-Criação de Menus.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\bin\Debug\TI45-Criação de Menus.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45-Criação de Menus.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45_Criação_de_Menus.Form1.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45_Criação_de_Menus.formularios.frmOpcao1.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45_Criação_de_Menus.Properties.Resources.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45-Criação de Menus.csproj.GenerateResource.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45-Criação de Menus.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45-Criação de Menus.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45-Criação de Menus.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45_Criação_de_Menus.formularios.frmOpcao2.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Criação de Menus\TI45-Criação de Menus\obj\Debug\TI45_Criação_de_Menus.Acesso.resources

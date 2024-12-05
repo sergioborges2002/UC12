@@ -1,0 +1,10 @@
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\bin\Debug\TI45-Maior de 6.exe.config
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\bin\Debug\TI45-Maior de 6.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\bin\Debug\TI45-Maior de 6.pdb
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\obj\Debug\TI45-Maior de 6.csproj.AssemblyReference.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\obj\Debug\TI45_Maior_de_6.FrmMaiorDe6.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\obj\Debug\TI45_Maior_de_6.Properties.Resources.resources
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\obj\Debug\TI45-Maior de 6.csproj.GenerateResource.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\obj\Debug\TI45-Maior de 6.csproj.CoreCompileInputs.cache
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\obj\Debug\TI45-Maior de 6.exe
+C:\Users\sergio.hbsantos\source\repos\TI45-Maior de 6\TI45-Maior de 6\obj\Debug\TI45-Maior de 6.pdb
